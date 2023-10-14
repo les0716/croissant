@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+footer {
+  display: block;
+  text-align: center;
+  padding: 20px;
+}
+footer a {
+  margin: 10px;
+}
+img {
+  max-width: 25%;
+  display: block;
+  margin: 0 auto;
+}
+body {
+  background: #fdffcd;
+}
